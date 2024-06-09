@@ -1,2 +1,2 @@
 # Stellar-GameFi-integration
-Stellar GameFi integration to Colyseus.js, Decentraland, Other Platforms
+Stellar GameFi integration to Colyseus.js (Web, Mobile, Desktop), Decentraland. 
