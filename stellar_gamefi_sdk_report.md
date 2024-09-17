@@ -1,4 +1,7 @@
-# 📝 Project Report for the Stellar Ecosystem
+# 📝 Open GameFi Project Report for the Stellar Ecosystem
+
+![stellarogf](https://github.com/user-attachments/assets/b535ec56-1785-47cd-967e-d8c1e36f8bbf)
+
 
 ## 1. Executive Summary
 
