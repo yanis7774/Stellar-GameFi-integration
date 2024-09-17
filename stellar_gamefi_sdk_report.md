@@ -63,8 +63,8 @@ Although the **"Tap to Earn"** game example was not initially included in the gr
 - **Soroban Smart Contracts:** Ready-to-use contracts with deployment commands for Stellar's smart contract system.
 - **Token Deposit/Withdraw Module:** Handling of deposits and withdrawals for XLM and custom tokens.
 - **Upgrades Purchasing System:** Implementation of an upgrade system using contract currency.
-- **Frontend Application:** User interface integrating all features, published on GitHub: [Frontend](https://github.com/yanis7774/Open-GameFi/tree/main/stellar-pack/stellar-wallet).
-- **Backend Application:** Backend with Colyseus and database connections, published on GitHub: [Backend](https://github.com/yanis7774/Open-GameFi/tree/main/stellar-pack/stellar-back).
+- **Frontend Application:** User interface integrating all features, published on GitHub: [Frontend](https://github.com/yanis7774/Open-GameFi/tree/main/stellar-pack/game-example/my-app).
+- **Backend Application:** Backend with Colyseus and database connections, published on GitHub: [Backend](https://github.com/yanis7774/Open-GameFi/tree/main/stellar-pack/stellar-backend).
 
 ### 📰 Medium Articles Published
 1. [Creating a Tap-To-Earn Game on Stellar Blockchain: A Step-by-Step Guide](https://opengamefi.medium.com/creating-an-idle-game-on-stellar-blockchain-a-step-by-step-guide-39c0b4ed93ea)
@@ -105,8 +105,8 @@ We believe this project will foster innovation within the Stellar ecosystem and 
 1. **GitHub SDK:** [Open GameFi SDK](https://github.com/yanis7774/Open-GameFi/tree/main)
 2. **GitHub Contracts:** [Soroban Contracts](https://github.com/yanis7774/Open-GameFi/tree/main/stellar-pack/soroban-project/soroban-contracts)
 3. **GitHub Decentraland Integration:** [NPC Donation Integration](https://github.com/alexgrim123/dcl_npc_donation)
-4. **GitHub Frontend:** [Frontend Application](https://github.com/yanis7774/Open-GameFi/tree/main/stellar-pack/stellar-wallet)
-5. **GitHub Backend:** [Backend Application](https://github.com/yanis7774/Open-GameFi/tree/main/stellar-pack/stellar-back)
+4. **GitHub Frontend:** [Frontend Application](https://github.com/yanis7774/Open-GameFi/tree/main/stellar-pack/game-example/my-app)
+5. **GitHub Backend:** [Backend Application](https://github.com/yanis7774/Open-GameFi/tree/main/stellar-pack/stellar-backend)
 6. **Medium Article 1:** [Step-by-Step Guide for Stellar Game Development](https://opengamefi.medium.com/creating-an-idle-game-on-stellar-blockchain-a-step-by-step-guide-39c0b4ed93ea)
 7. **Medium Article 2:** [Backend Development for Stellar Games](https://opengamefi.medium.com/building-the-backend-for-your-stellar-blockchain-idle-game-c6bbb65c473b)
 8. **Medium Article 3:** [Frontend Development for Stellar Games](https://opengamefi.medium.com/creating-the-frontend-for-your-stellar-blockchain-idle-game-14091e253959)
