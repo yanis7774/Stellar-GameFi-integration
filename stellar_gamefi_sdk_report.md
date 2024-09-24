@@ -113,3 +113,21 @@ We believe this project will foster innovation within the Stellar ecosystem and 
 6. **Medium Article 1:** [Step-by-Step Guide for Stellar Game Development](https://opengamefi.medium.com/creating-an-idle-game-on-stellar-blockchain-a-step-by-step-guide-39c0b4ed93ea)
 7. **Medium Article 2:** [Backend Development for Stellar Games](https://opengamefi.medium.com/building-the-backend-for-your-stellar-blockchain-idle-game-c6bbb65c473b)
 8. **Medium Article 3:** [Frontend Development for Stellar Games](https://opengamefi.medium.com/creating-the-frontend-for-your-stellar-blockchain-idle-game-14091e253959)
+
+
+---
+
+## Changelog (Post-Report Development)
+
+### September 23, 2024
+- **Integration with Freighter API**: 
+  - Added support for connecting non-custodial wallets using the Freighter API.
+  - Enables seamless login through wallet confirmation to obtain the user's public address.
+
+- **Enhanced Transaction Handling**:
+  - Implemented transaction initiation for functions such as `deposit`, `withdraw`, and `purchase`.
+  - Transactions are now built on the backend and sent to the frontend for user subscription.
+  - Subscribed transactions are securely sent back to the server for execution.
+  - Execution results are then communicated back to the frontend, ensuring an interactive user experience.
+
+---
